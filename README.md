@@ -88,5 +88,18 @@ Développé par **Rim EL ABBASSI** dans le cadre d’un projet académique en in
 ![image](https://github.com/user-attachments/assets/f1c39c14-554f-4c48-b90d-a173cfce1488)
 ![image](https://github.com/user-attachments/assets/54d83043-9ed8-4b4e-9620-272d296431e5)
 ![image](https://github.com/user-attachments/assets/34175045-070f-4541-9117-aebddbfe15a1)
-
+## Application Web
+![image](https://github.com/user-attachments/assets/2806ad69-f9bc-4695-a8d0-e4cb07ace1bb)
+![image](https://github.com/user-attachments/assets/3b8e5508-7692-404b-8fab-7511d4238fec)
+![image](https://github.com/user-attachments/assets/70fbeedb-69b1-42ab-8a16-3624053b2fa0)
+![image](https://github.com/user-attachments/assets/e0e41f35-6271-4c8d-835d-31e118ca363e)
+![image](https://github.com/user-attachments/assets/3199c36e-68da-4e34-959b-d894751627c9)
+![image](https://github.com/user-attachments/assets/555278f5-ffed-4c14-b71c-d72f76378694)
+![image](https://github.com/user-attachments/assets/793e1f48-fb30-473f-b7e1-e4cdb5f44871)
+![image](https://github.com/user-attachments/assets/2449b54f-f5c8-4b15-9dd0-de2df849abfb)
+![image](https://github.com/user-attachments/assets/f258456f-eb4f-465d-853f-64bf0b864f23)
+![image](https://github.com/user-attachments/assets/014856c0-bba1-4722-b377-433a99ab4038)
+![image](https://github.com/user-attachments/assets/6aa90050-98a3-4769-8ffb-475f5bacc174)
+![image](https://github.com/user-attachments/assets/6afd65c5-05c3-4ba3-9956-6b028096442a)
+![image](https://github.com/user-attachments/assets/8f58a967-7d15-40fe-9624-c31fce9f8eb2)
 
