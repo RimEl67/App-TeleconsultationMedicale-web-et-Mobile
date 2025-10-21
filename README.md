@@ -1,4 +1,4 @@
-# MediConnect – Application Mobile de Téléconsultation Médicale
+# Application Mobile de Téléconsultation Médicale
 
 ## 📱 Présentation
 
